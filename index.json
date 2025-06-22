@@ -1,0 +1,16 @@
+{
+  "upgrades": [
+    {
+      "filename": "new_feature.py",
+      "url": "https://raw.githubusercontent.com/Neev989261/jarvis-upgrades/main/new_feature.py"
+    },
+    {
+      "filename": "camera_patch.json",
+      "url": "https://raw.githubusercontent.com/Neev989261/jarvis-upgrades/main/camera_patch.json"
+    },
+    {
+      "filename": "auto_module.zip",
+      "url": "https://raw.githubusercontent.com/Neev989261/jarvis-upgrades/main/auto_module.zip"
+    }
+  ]
+}
