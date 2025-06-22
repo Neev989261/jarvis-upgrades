@@ -1,0 +1,29 @@
+{
+  "user": {
+    "name": "Neev",
+    "language": "en",
+    "personality": "tony_stark",
+    "voice_type": "male",
+    "theme": "blue_dark"
+  },
+  "audio": {
+    "volume": 0.9,
+    "startup_sound": true,
+    "response_speed": 1.0
+  },
+  "modes": {
+    "study_mode": true,
+    "trading_mode": false,
+    "hud_overlay_enabled": true,
+    "voice_wakeword_enabled": true
+  },
+  "sync": {
+    "cloud_enabled": true,
+    "sync_path": "C:/Users/Neev/OneDrive/JARVIS_SYNC"
+  },
+  "developer": {
+    "debug_mode": false,
+    "auto_update": true,
+    "logs_enabled": true
+  }
+}

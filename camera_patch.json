@@ -1,0 +1,7 @@
+{
+  "patch": "camera_overlay_fix",
+  "description": "Fixes window size and adds frame counter to AR HUD overlay",
+  "version": "1.0",
+  "target_file": "ar_hud_overlay.py",
+  "instructions": "Replace cv2.imshow logic to include frame counter and improve FPS."
+}
